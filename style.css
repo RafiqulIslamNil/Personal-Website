@@ -21,7 +21,7 @@ section {
 }
 .link-button {
   text-decoration: none;
-  background-image: linear-gradient(blueviolet, pink);
+  background-image: linear-gradient(rgb(226, 156, 43), rgb(231, 255, 19));
   padding: 10px 30px;
   border-radius: 10px;
 }
